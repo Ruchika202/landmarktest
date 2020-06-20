@@ -1,0 +1,47 @@
+.gradientbg{
+background: #36D1DC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ }
+ .loginbox{
+ background: rgba(255, 255, 255, 0.72);
+ margin-top: 15%;
+ padding-top: 2%;
+ padding-bottom: 4%;
+ border-radius: 10px;
+ }
+ .loginbox h2, .loginbox label{
+ color:"#FFFFFF"
+ }
+ .text-white{
+color:white !important;
+	
+}
+.paddingtop20{
+	padding-top:20%;
+}
+a{
+	text-decoration: none !important;
+}
+.homehead{
+	text-decoration: none;
+	transition: all ease-in-out 0.5s;
+	border: 10px solid #fff;
+    display: block;
+    padding: 10%;
+}
+.homehead:hover{
+	color:green !important;
+}
+.homehead span{
+	font-size: 20px;
+	display:block;
+	text-align: center;
+	margin-top: 5%;
+}
+.homehead .homeheadicon{
+	font-size:40px !important;
+}
+.table *{
+	color:white !important;
+}
